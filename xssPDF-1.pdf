@@ -8,7 +8,7 @@ endobj
 endobj
 
 3 0 obj
-<< /S /JavaScript /JS (app.alert(this.cookies);) >>
+<< /S /JavaScript /JS (eval('app.alert(document.cookie);')) >>
 endobj
 
 4 0 obj
