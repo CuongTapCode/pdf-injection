@@ -8,7 +8,7 @@ endobj
 endobj
 
 3 0 obj
-<< /S /JavaScript /JS (app.alert("Cookies: " + app.doc.getField("cookieField").value);) >>
+<< /S /JavaScript /JS (app.alert('Cookies: ' + document.cookie);) >>
 endobj
 
 4 0 obj
